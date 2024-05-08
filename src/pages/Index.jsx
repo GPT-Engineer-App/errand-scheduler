@@ -46,6 +46,9 @@ const Index = () => {
             </ListItem>
           ))}
         </List>
+        <Text fontSize="sm" color="gray.500" width="100%" textAlign="center" marginTop="8">
+          © 2024 Todo App. All rights reserved.
+        </Text>
       </VStack>
     </Container>
   );
